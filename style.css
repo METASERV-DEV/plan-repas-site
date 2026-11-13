@@ -46,6 +46,7 @@ h2 { color: var(--vert-fonce); font-size: 26px; margin: 0 0 18px; }
 section.blanc .carte { background: var(--creme); }
 .carte h3 { margin: 0 0 6px; font-size: 17px; color: var(--orange); }
 .carte p { margin: 0; color: #444; }
+.carte p.mention { margin-top: 8px; font-size: 12px; font-style: italic; color: #777; }
 
 /* Vidéo */
 .video-box { max-width: 720px; margin: 0 auto; }
